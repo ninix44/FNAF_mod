@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fnaf_mod:item/guard_hat_item"
+  },
+  "display": {
+    "head": {
+      "translation": [0, -3.0, 0],
+      "scale": [1.6, 1.6, 1.6]
+    }
+  }
+}

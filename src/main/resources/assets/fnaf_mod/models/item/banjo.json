@@ -1,0 +1,7 @@
+{
+  "parent": "fnaf_mod:custom/banjo",
+  "textures": {
+    "1": "fnaf_mod:block/banjo",
+    "particle": "fnaf_mod:item/banjo"
+  }
+}

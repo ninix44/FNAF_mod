@@ -1,0 +1,6 @@
+{
+  "parent": "fnaf_mod:displaysettings/trash_can.item",
+  "textures": {
+    "particle": "fnaf_mod:block/trash_can"
+  }
+}

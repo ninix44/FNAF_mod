@@ -1,0 +1,6 @@
+{
+  "parent": "fnaf_mod:custom/carousel_particle",
+  "textures": {
+    "particle": "fnaf_mod:block/carousel"
+  }
+}

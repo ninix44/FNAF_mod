@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right",
+  "textures": {
+    "particle": "fnaf_mod:block/red_door_bottom",
+    "bottom": "fnaf_mod:block/red_door_bottom",
+    "top": "fnaf_mod:block/red_door_top"
+  },
+  "render_type": "solid"
+}

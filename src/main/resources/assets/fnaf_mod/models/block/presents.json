@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/presents",
+  "textures": {
+    "all": "fnaf_mod:block/posters1",
+    "particle": "fnaf_mod:block/posters1",
+    "6": "fnaf_mod:block/presents"
+  },
+  "render_type": "cutout"
+}

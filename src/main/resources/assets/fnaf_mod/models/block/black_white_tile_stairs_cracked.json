@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "fnaf_mod:block/cracked_tiles",
+    "bottom": "fnaf_mod:block/cracked_tiles",
+    "top": "fnaf_mod:block/cracked_tiles",
+    "side": "fnaf_mod:block/cracked_tiles"
+  },
+  "render_type": "solid"
+}

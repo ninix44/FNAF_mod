@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/fm_cashregister",
+  "textures": {
+    "all": "fnaf_mod:block/fm_cashregister",
+    "particle": "fnaf_mod:block/fm_cashregister",
+    "0": "fnaf_mod:block/fm_cashregister"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "fnaf_mod:block/cyan_green_diagonal_tiles",
+    "bottom": "fnaf_mod:block/cyan_green_diagonal_tiles",
+    "top": "fnaf_mod:block/cyan_green_diagonal_tiles",
+    "side": "fnaf_mod:block/cyan_green_diagonal_tiles"
+  },
+  "render_type": "solid"
+}

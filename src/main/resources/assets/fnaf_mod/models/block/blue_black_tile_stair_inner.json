@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "fnaf_mod:block/blue_tile",
+    "bottom": "fnaf_mod:block/blue_tile",
+    "top": "fnaf_mod:block/blue_tile",
+    "side": "fnaf_mod:block/blue_tile"
+  },
+  "render_type": "solid"
+}

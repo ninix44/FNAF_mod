@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/wall_pizza_new",
+  "textures": {
+    "all": "fnaf_mod:block/wallpizza",
+    "particle": "fnaf_mod:block/wallpizza",
+    "0": "fnaf_mod:block/wallpizza"
+  },
+  "render_type": "cutout_mipped"
+}

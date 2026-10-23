@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/pizzeria_trash_can"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/pizzeria_trash_can",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/pizzeria_trash_can",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/pizzeria_trash_can",
+      "y": 270
+    }
+  }
+}

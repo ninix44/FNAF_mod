@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:custom/freddys_cupcake_bonanza_particle"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:custom/freddys_cupcake_bonanza_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:custom/freddys_cupcake_bonanza_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:custom/freddys_cupcake_bonanza_particle",
+      "y": 270
+    }
+  }
+}

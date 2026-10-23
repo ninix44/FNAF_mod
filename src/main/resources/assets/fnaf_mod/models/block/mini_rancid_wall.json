@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fnaf_mod:block/small_rancid_wall",
+    "particle": "fnaf_mod:block/small_rancid_wall"
+  },
+  "render_type": "solid"
+}

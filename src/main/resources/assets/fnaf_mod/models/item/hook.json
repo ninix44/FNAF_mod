@@ -1,0 +1,7 @@
+{
+  "parent": "fnaf_mod:custom/hook",
+  "textures": {
+    "0": "fnaf_mod:block/hook",
+    "particle": "fnaf_mod:item/hook"
+  }
+}

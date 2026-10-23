@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "fnaf_mod:block/prize_counter"
+    },
+    "facing=east,blockstate=0": {
+      "model": "fnaf_mod:block/prize_counter",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "fnaf_mod:block/prize_counter",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "fnaf_mod:block/prize_counter",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_0",
+      "y": 270
+    },
+    "facing=north,blockstate=2": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_1"
+    },
+    "facing=east,blockstate=2": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_1",
+      "y": 90
+    },
+    "facing=south,blockstate=2": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_1",
+      "y": 180
+    },
+    "facing=west,blockstate=2": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_1",
+      "y": 270
+    },
+    "facing=north,blockstate=3": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_2"
+    },
+    "facing=east,blockstate=3": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_2",
+      "y": 90
+    },
+    "facing=south,blockstate=3": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_2",
+      "y": 180
+    },
+    "facing=west,blockstate=3": {
+      "model": "fnaf_mod:block/prize_counter_blockstates_blockstate_2",
+      "y": 270
+    }
+  }
+}

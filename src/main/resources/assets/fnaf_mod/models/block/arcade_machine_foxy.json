@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/arcade2",
+  "textures": {
+    "all": "fnaf_mod:block/arcade",
+    "particle": "fnaf_mod:block/arcade",
+    "0": "fnaf_mod:block/arcade"
+  },
+  "render_type": "cutout"
+}

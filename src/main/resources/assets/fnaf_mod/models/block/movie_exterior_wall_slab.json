@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "fnaf_mod:block/movie_tile_bottom",
+    "bottom": "fnaf_mod:block/movie_tile_bottom",
+    "top": "fnaf_mod:block/movie_tile_bottom",
+    "side": "fnaf_mod:block/movie_tile_bottom"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fnaf_mod:block/curtainpink",
+    "up": "fnaf_mod:block/curtainpink",
+    "north": "fnaf_mod:block/curtainpink",
+    "east": "fnaf_mod:block/curtainpink",
+    "south": "fnaf_mod:block/curtainpink",
+    "west": "fnaf_mod:block/curtainpink",
+    "particle": "fnaf_mod:block/curtainpink"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "fnaf_mod:block/interiorbricks",
+    "bottom": "fnaf_mod:block/interiorbricks",
+    "top": "fnaf_mod:block/interiorbricks",
+    "side": "fnaf_mod:block/interiorbricks"
+  },
+  "render_type": "solid"
+}

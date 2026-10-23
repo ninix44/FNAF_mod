@@ -1,0 +1,55 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "fnaf_mod:custom/purple_stripe_table_particle"
+    },
+    "blockstate=1": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_3"
+    },
+    "blockstate=5": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_4"
+    },
+    "blockstate=6": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_5"
+    },
+    "blockstate=7": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_6"
+    },
+    "blockstate=8": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_7"
+    },
+    "blockstate=9": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_8"
+    },
+    "blockstate=10": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_9"
+    },
+    "blockstate=11": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_10"
+    },
+    "blockstate=12": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_11"
+    },
+    "blockstate=13": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_12"
+    },
+    "blockstate=14": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_13"
+    },
+    "blockstate=15": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_14"
+    },
+    "blockstate=16": {
+      "model": "fnaf_mod:block/purple_stripe_table_blockstate_15"
+    }
+  }
+}

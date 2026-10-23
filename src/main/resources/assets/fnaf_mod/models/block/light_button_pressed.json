@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/light_button_on",
+  "textures": {
+    "all": "fnaf_mod:block/light_button_active",
+    "particle": "fnaf_mod:block/light_button_active",
+    "2": "fnaf_mod:block/light_button_active"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/vententrance",
+  "textures": {
+    "all": "fnaf_mod:block/vent",
+    "particle": "fnaf_mod:block/vent",
+    "2": "fnaf_mod:block/vent"
+  },
+  "render_type": "solid"
+}

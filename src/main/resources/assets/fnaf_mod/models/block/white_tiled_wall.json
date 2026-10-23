@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fnaf_mod:block/all_white_tile",
+    "particle": "fnaf_mod:block/all_white_tile"
+  },
+  "render_type": "solid"
+}

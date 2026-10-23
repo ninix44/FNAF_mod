@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/sconce",
+  "textures": {
+    "all": "fnaf_mod:block/sconce",
+    "particle": "fnaf_mod:block/sconce",
+    "1": "fnaf_mod:block/sconce"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "fnaf_mod:block/ovalstreamer",
+    "edge": "fnaf_mod:block/transparency",
+    "pane": "fnaf_mod:block/ovalstreamer"
+  },
+  "render_type": "cutout"
+}

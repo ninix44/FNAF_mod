@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/entrance_star",
+  "textures": {
+    "all": "fnaf_mod:block/star_movie",
+    "particle": "fnaf_mod:block/star_movie",
+    "0": "fnaf_mod:block/star_movie"
+  },
+  "render_type": "translucent"
+}

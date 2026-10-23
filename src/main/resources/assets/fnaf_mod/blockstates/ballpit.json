@@ -1,0 +1,151 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "fnaf_mod:block/ballpit"
+    },
+    "blockstate=1": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_3"
+    },
+    "blockstate=5": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_4"
+    },
+    "blockstate=6": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_5"
+    },
+    "blockstate=7": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_6"
+    },
+    "blockstate=8": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_7"
+    },
+    "blockstate=9": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_8"
+    },
+    "blockstate=10": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_9"
+    },
+    "blockstate=11": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_10"
+    },
+    "blockstate=12": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_11"
+    },
+    "blockstate=13": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_12"
+    },
+    "blockstate=14": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_13"
+    },
+    "blockstate=15": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_14"
+    },
+    "blockstate=16": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_15"
+    },
+    "blockstate=17": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_16"
+    },
+    "blockstate=18": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_17"
+    },
+    "blockstate=19": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_18"
+    },
+    "blockstate=20": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_19"
+    },
+    "blockstate=21": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_20"
+    },
+    "blockstate=22": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_21"
+    },
+    "blockstate=23": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_22"
+    },
+    "blockstate=24": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_23"
+    },
+    "blockstate=25": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_24"
+    },
+    "blockstate=26": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_25"
+    },
+    "blockstate=27": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_26"
+    },
+    "blockstate=28": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_27"
+    },
+    "blockstate=29": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_28"
+    },
+    "blockstate=30": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_29"
+    },
+    "blockstate=31": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_30"
+    },
+    "blockstate=32": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_31"
+    },
+    "blockstate=33": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_32"
+    },
+    "blockstate=34": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_33"
+    },
+    "blockstate=35": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_34"
+    },
+    "blockstate=36": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_35"
+    },
+    "blockstate=37": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_36"
+    },
+    "blockstate=38": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_37"
+    },
+    "blockstate=39": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_38"
+    },
+    "blockstate=40": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_39"
+    },
+    "blockstate=41": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_40"
+    },
+    "blockstate=42": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_41"
+    },
+    "blockstate=43": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_42"
+    },
+    "blockstate=44": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_43"
+    },
+    "blockstate=45": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_44"
+    },
+    "blockstate=46": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_45"
+    },
+    "blockstate=47": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_46"
+    },
+    "blockstate=48": {
+      "model": "fnaf_mod:block/ballpit_states_blockstate_47"
+    }
+  }
+}

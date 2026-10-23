@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/wet_floor_sign",
+  "textures": {
+    "all": "fnaf_mod:block/wet_floor_sign",
+    "particle": "fnaf_mod:block/wet_floor_sign",
+    "0": "fnaf_mod:block/wet_floor_sign"
+  },
+  "render_type": "cutout"
+}

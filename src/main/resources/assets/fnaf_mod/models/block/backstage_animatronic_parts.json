@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/backstage_eyes",
+  "textures": {
+    "all": "fnaf_mod:block/backstage_eyes",
+    "particle": "fnaf_mod:block/backstage_eyes",
+    "0": "fnaf_mod:block/backstage_eyes"
+  },
+  "render_type": "cutout_mipped"
+}

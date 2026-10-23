@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/poster5",
+  "textures": {
+    "all": "fnaf_mod:block/rulesposter",
+    "particle": "fnaf_mod:block/rulesposter",
+    "9": "fnaf_mod:block/rulesposter"
+  },
+  "render_type": "solid"
+}

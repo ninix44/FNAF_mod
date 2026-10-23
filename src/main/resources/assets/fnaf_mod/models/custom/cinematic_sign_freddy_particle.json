@@ -1,0 +1,6 @@
+{
+  "parent": "fnaf_mod:displaysettings/freddyhead.item",
+  "textures": {
+    "particle": "fnaf_mod:block/ffp_sign_freddy_cinematic_texture"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/lure_speaker",
+  "textures": {
+    "all": "fnaf_mod:block/lure",
+    "particle": "fnaf_mod:block/lure",
+    "0": "fnaf_mod:block/lure"
+  },
+  "render_type": "translucent"
+}

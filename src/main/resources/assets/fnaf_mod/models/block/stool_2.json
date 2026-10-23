@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/stools",
+  "textures": {
+    "all": "fnaf_mod:block/red_stool",
+    "particle": "fnaf_mod:block/red_stool",
+    "0": "fnaf_mod:block/red_stool"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "fnaf_mod:block/gateblock",
+    "edge": "fnaf_mod:block/gateblock_top",
+    "pane": "fnaf_mod:block/gateblock"
+  },
+  "render_type": "cutout"
+}

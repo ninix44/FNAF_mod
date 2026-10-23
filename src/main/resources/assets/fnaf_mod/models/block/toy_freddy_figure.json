@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/figure_toy-freddy",
+  "textures": {
+    "all": "fnaf_mod:block/figure_toy-freddy",
+    "particle": "fnaf_mod:block/figure_toy-freddy",
+    "0": "fnaf_mod:block/figure_toy-freddy"
+  },
+  "render_type": "cutout"
+}

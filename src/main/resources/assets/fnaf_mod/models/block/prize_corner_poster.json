@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/prizecounterposter",
+  "textures": {
+    "all": "fnaf_mod:block/prizecounterposter",
+    "particle": "fnaf_mod:block/prizecounterposter",
+    "0": "fnaf_mod:block/prizecounterposter"
+  },
+  "render_type": "solid"
+}

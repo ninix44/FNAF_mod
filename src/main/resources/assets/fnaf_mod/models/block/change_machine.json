@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/changemachine",
+  "textures": {
+    "all": "fnaf_mod:block/changemachine",
+    "particle": "fnaf_mod:block/changemachine",
+    "0": "fnaf_mod:block/changemachine"
+  },
+  "render_type": "cutout_mipped"
+}

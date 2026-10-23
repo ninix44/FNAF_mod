@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/stanchions3",
+  "textures": {
+    "all": "fnaf_mod:block/stanchion",
+    "particle": "fnaf_mod:block/stanchion",
+    "0": "fnaf_mod:block/stanchion"
+  },
+  "render_type": "cutout"
+}

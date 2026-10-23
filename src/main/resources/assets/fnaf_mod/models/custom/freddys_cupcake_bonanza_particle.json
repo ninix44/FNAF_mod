@@ -1,0 +1,6 @@
+{
+  "parent": "fnaf_mod:displaysettings/cupcakebonanza",
+  "textures": {
+    "particle": "fnaf_mod:block/freddyscupcakebonaza"
+  }
+}

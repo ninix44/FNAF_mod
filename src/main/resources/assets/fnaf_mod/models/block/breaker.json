@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/fnaf_mod_movie_breaker_switch",
+  "textures": {
+    "all": "fnaf_mod:block/fnaf_mod_movie_breaker_switch",
+    "particle": "fnaf_mod:block/fnaf_mod_movie_breaker_switch",
+    "0": "fnaf_mod:block/fnaf_mod_movie_breaker_switch"
+  },
+  "render_type": "cutout_mipped"
+}

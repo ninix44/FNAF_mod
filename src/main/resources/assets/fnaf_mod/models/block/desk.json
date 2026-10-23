@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/desk",
+  "textures": {
+    "all": "fnaf_mod:block/desktexture",
+    "particle": "fnaf_mod:block/desktexture",
+    "1": "fnaf_mod:block/desktexture"
+  },
+  "render_type": "cutout"
+}

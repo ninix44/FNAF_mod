@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fnaf_mod:block/stage_wood",
+    "up": "fnaf_mod:block/stage_wood",
+    "north": "fnaf_mod:block/stage_wood",
+    "east": "fnaf_mod:block/stage_wood",
+    "south": "fnaf_mod:block/stage_wood",
+    "west": "fnaf_mod:block/stage_wood",
+    "particle": "fnaf_mod:block/stage_wood"
+  },
+  "render_type": "solid"
+}

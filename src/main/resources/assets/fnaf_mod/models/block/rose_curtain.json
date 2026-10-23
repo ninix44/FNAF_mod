@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fnaf_mod:block/rose_curtain",
+    "up": "fnaf_mod:block/rose_curtain",
+    "north": "fnaf_mod:block/rose_curtain",
+    "east": "fnaf_mod:block/rose_curtain",
+    "south": "fnaf_mod:block/rose_curtain",
+    "west": "fnaf_mod:block/rose_curtain",
+    "particle": "fnaf_mod:block/rose_curtain"
+  },
+  "render_type": "solid"
+}

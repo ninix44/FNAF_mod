@@ -1,0 +1,41 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.WhiteDoor",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "WhiteDoor",
+					"pivot": [-7, -0.33333, 0],
+					"cubes": [
+						{"origin": [7, -16, -9], "size": [2, 48, 18], "uv": [0, 20]},
+						{"origin": [-25, -16, -9], "size": [2, 48, 18], "uv": [40, 20]},
+						{"origin": [-23, -16, -3], "size": [2, 47, 6], "uv": [80, 75]},
+						{"origin": [5, -16, -3], "size": [2, 47, 6], "uv": [80, 75]},
+						{"origin": [-21, 28, -3], "size": [26, 2, 6], "uv": [80, 67]},
+						{"origin": [-23, 30, -9], "size": [30, 2, 18], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "Door",
+					"parent": "WhiteDoor",
+					"pivot": [-20, 8, 0],
+					"cubes": [
+						{"origin": [-21, -16, -1], "size": [26, 45, 2], "uv": [80, 20]},
+						{"origin": [2, 2, -2], "size": [1, 1, 1], "uv": [12, 86]},
+						{"origin": [1, 1, -5], "size": [3, 3, 3], "uv": [0, 86]},
+						{"origin": [1, 1, 2], "size": [3, 3, 3], "uv": [0, 86]},
+						{"origin": [2, 2, 1], "size": [1, 1, 1], "uv": [12, 86]}
+					]
+				}
+			]
+		}
+	]
+}

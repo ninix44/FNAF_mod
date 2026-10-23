@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fnaf_mod:block/curtaingrey",
+    "up": "fnaf_mod:block/curtaingrey",
+    "north": "fnaf_mod:block/curtaingrey",
+    "east": "fnaf_mod:block/curtaingrey",
+    "south": "fnaf_mod:block/curtaingrey",
+    "west": "fnaf_mod:block/curtaingrey",
+    "particle": "fnaf_mod:block/curtaingrey"
+  },
+  "render_type": "solid"
+}

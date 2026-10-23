@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/backstage_animatronic_parts"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/backstage_animatronic_parts",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/backstage_animatronic_parts",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/backstage_animatronic_parts",
+      "y": 270
+    }
+  }
+}

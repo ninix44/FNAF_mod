@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fnaf_mod:block/ballpitbottom",
+    "up": "fnaf_mod:block/bp22",
+    "north": "fnaf_mod:block/ballpitside",
+    "east": "fnaf_mod:block/ballpitside",
+    "south": "fnaf_mod:block/ballpitside",
+    "west": "fnaf_mod:block/ballpitside",
+    "particle": "fnaf_mod:block/ballpitside"
+  },
+  "render_type": "translucent"
+}

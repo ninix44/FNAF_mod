@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/big_door_hitbox"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/big_door_hitbox",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/big_door_hitbox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/big_door_hitbox",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"animation_length": 1.5,
+			"bones": {
+				"door": {
+					"rotation": {
+						"vector": [0, 25, 0]
+					}
+				},
+				"doorhandle": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"door2": {
+					"rotation": {
+						"vector": [0, -25, 0]
+					}
+				},
+				"doorhandle2": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"bone": {
+					"rotation": {
+						"vector": [0, -67.5, 0]
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"vector": [0, 75, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

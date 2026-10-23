@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/puppetling_fnaf_mod",
+  "textures": {
+    "all": "fnaf_mod:block/minipuppet",
+    "particle": "fnaf_mod:block/minipuppet",
+    "0": "fnaf_mod:block/minipuppet"
+  },
+  "render_type": "cutout"
+}

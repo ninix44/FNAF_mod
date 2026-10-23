@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/poster5",
+  "textures": {
+    "all": "fnaf_mod:block/freddyhallposter",
+    "particle": "fnaf_mod:block/freddyhallposter",
+    "9": "fnaf_mod:block/freddyhallposter"
+  },
+  "render_type": "solid"
+}

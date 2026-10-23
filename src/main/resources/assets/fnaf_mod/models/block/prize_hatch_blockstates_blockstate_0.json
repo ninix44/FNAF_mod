@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/prize_hatch_open",
+  "textures": {
+    "all": "fnaf_mod:block/prize_hatch",
+    "particle": "fnaf_mod:block/prize_hatch",
+    "0": "fnaf_mod:block/prize_hatch"
+  },
+  "render_type": "cutout"
+}

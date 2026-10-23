@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fnaf_mod:block/fw_dirt",
+    "up": "fnaf_mod:block/choppys_grass_top",
+    "north": "fnaf_mod:block/choppys_grass_side",
+    "east": "fnaf_mod:block/choppys_grass_side",
+    "south": "fnaf_mod:block/choppys_grass_side",
+    "west": "fnaf_mod:block/choppys_grass_side",
+    "particle": "fnaf_mod:block/fw_dirt"
+  },
+  "render_type": "solid"
+}

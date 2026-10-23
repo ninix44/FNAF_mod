@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "fnaf_mod:block/flaf_door_top",
+    "bottom": "fnaf_mod:block/flaf_door_top",
+    "top": "fnaf_mod:block/flaf_door_top",
+    "side": "fnaf_mod:block/flaf_door_top"
+  },
+  "render_type": "translucent"
+}

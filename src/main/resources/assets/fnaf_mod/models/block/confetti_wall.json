@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/wire_frame",
+  "textures": {
+    "all": "fnaf_mod:block/textureconfetti",
+    "particle": "fnaf_mod:block/textureconfetti",
+    "1": "fnaf_mod:block/textureconfetti"
+  },
+  "render_type": "translucent"
+}

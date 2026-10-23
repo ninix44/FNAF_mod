@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/toytelephone",
+  "textures": {
+    "all": "fnaf_mod:block/toyphone",
+    "particle": "fnaf_mod:block/toyphone",
+    "0": "fnaf_mod:block/toyphone"
+  },
+  "render_type": "cutout"
+}

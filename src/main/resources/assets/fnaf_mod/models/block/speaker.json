@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/speaker_front",
+  "textures": {
+    "all": "fnaf_mod:block/small_speakers",
+    "particle": "fnaf_mod:block/small_speakers",
+    "0": "fnaf_mod:block/small_speakers"
+  },
+  "render_type": "solid"
+}

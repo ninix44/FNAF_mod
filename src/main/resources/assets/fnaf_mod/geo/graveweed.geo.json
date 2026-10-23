@@ -1,0 +1,137 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.graveweed",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bouncepot",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "bouncepot",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2, 4, -2], "size": [4, 8, 4], "uv": [0, 27]},
+						{"origin": [-5, 9, 0], "size": [10, 4, 0], "uv": [0, 39]}
+					]
+				},
+				{
+					"name": "rightvine",
+					"parent": "body",
+					"pivot": [-2, 6, 0],
+					"cubes": [
+						{"origin": [-8, 5, 0], "size": [6, 7, 0], "uv": [21, 11]}
+					]
+				},
+				{
+					"name": "leftvine",
+					"parent": "body",
+					"pivot": [3, 6, 0],
+					"cubes": [
+						{"origin": [2, 5, 0], "size": [6, 7, 0], "uv": [21, 11], "mirror": true}
+					]
+				},
+				{
+					"name": "righthead",
+					"parent": "body",
+					"pivot": [-1.5, 13, -2.5],
+					"cubes": [
+						{"origin": [-7.5, 13, -3.5], "size": [7, 7, 7], "uv": [0, 11]},
+						{"origin": [-7, 20, 0], "size": [6, 4, 0], "pivot": [-4, 21, 0], "rotation": [0, 25, 0], "uv": [24, 3]},
+						{"origin": [-7, 20, 0], "size": [6, 4, 0], "pivot": [-4, 21, 0], "rotation": [0, -25, 0], "uv": [24, 3]},
+						{"origin": [-7.5, 15.5, -3.2], "size": [7, 3, 0], "uv": [24, 0]}
+					]
+				},
+				{
+					"name": "r_eye",
+					"parent": "righthead",
+					"pivot": [-2.5, 17, -3.5],
+					"cubes": [
+						{"origin": [-3, 16.5, -3.5], "size": [1, 1, 0], "uv": [0, 1]}
+					]
+				},
+				{
+					"name": "l_eye",
+					"parent": "righthead",
+					"pivot": [-5.5, 17, -3.5],
+					"cubes": [
+						{"origin": [-6, 16.5, -3.5], "size": [1, 1, 0], "uv": [0, 1]}
+					]
+				},
+				{
+					"name": "lefthead",
+					"parent": "body",
+					"pivot": [6.5, 13, -2.5],
+					"cubes": [
+						{"origin": [0.5, 13, -3.5], "size": [7, 7, 7], "uv": [0, 11]},
+						{"origin": [1, 20, 0], "size": [6, 4, 0], "pivot": [4, 21, 0], "rotation": [0, 25, 0], "uv": [24, 3]},
+						{"origin": [1, 20, 0], "size": [6, 4, 0], "pivot": [4, 21, 0], "rotation": [0, -25, 0], "uv": [24, 3]},
+						{"origin": [0.5, 15.5, -3.2], "size": [7, 3, 0], "uv": [24, 0]}
+					]
+				},
+				{
+					"name": "r_eye2",
+					"parent": "lefthead",
+					"pivot": [5.5, 17, -3.5],
+					"cubes": [
+						{"origin": [5, 16.5, -3.5], "size": [1, 1, 0], "uv": [0, 1]}
+					]
+				},
+				{
+					"name": "l_eye2",
+					"parent": "lefthead",
+					"pivot": [2.5, 17, -3.5],
+					"cubes": [
+						{"origin": [2, 16.5, -3.5], "size": [1, 1, 0], "uv": [0, 1]}
+					]
+				},
+				{
+					"name": "pot",
+					"parent": "bouncepot",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 0, -4], "size": [8, 3, 8], "uv": [0, 0]},
+						{"origin": [-3.5, 2.5, -3.5], "size": [7, 3, 7], "uv": [21, 18]}
+					]
+				},
+				{
+					"name": "flies",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "fly1",
+					"parent": "flies",
+					"pivot": [-11, 16.5, 0],
+					"cubes": [
+						{"origin": [-12, 16, 0], "size": [2, 1, 0], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "fly2",
+					"parent": "flies",
+					"pivot": [11, 16.5, 0],
+					"cubes": [
+						{"origin": [10, 16, 0], "size": [2, 1, 0], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "fly3",
+					"parent": "flies",
+					"pivot": [0, 25.5, 0],
+					"cubes": [
+						{"origin": [-1, 25, 0], "size": [2, 1, 0], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

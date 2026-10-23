@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/token_catalogue",
+  "textures": {
+    "all": "fnaf_mod:block/fnaf_mod_entrance_catalogue",
+    "particle": "fnaf_mod:block/fnaf_mod_entrance_catalogue",
+    "0": "fnaf_mod:block/fnaf_mod_entrance_catalogue"
+  },
+  "render_type": "cutout"
+}

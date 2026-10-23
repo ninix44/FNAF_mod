@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/toyrobot",
+  "textures": {
+    "all": "fnaf_mod:block/bottoy",
+    "particle": "fnaf_mod:block/bottoy",
+    "0": "fnaf_mod:block/bottoy"
+  },
+  "render_type": "cutout_mipped"
+}

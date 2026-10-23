@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/vent_entry",
+  "textures": {
+    "all": "fnaf_mod:block/vent_entry",
+    "particle": "fnaf_mod:block/vent_entry",
+    "2": "fnaf_mod:block/vent_entry"
+  },
+  "render_type": "solid"
+}

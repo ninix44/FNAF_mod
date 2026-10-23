@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fnaf_mod:block/shelf_test"
+    },
+    "type=top": {
+      "model": "fnaf_mod:block/shelf_test_top"
+    },
+    "type=double": {
+      "model": "fnaf_mod:block/shelf_test_full"
+    }
+  }
+}

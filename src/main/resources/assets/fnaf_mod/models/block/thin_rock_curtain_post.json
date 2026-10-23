@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "fnaf_mod:block/curtaingrey",
+    "edge": "fnaf_mod:block/curtaingrey",
+    "pane": "fnaf_mod:block/curtaingrey"
+  },
+  "render_type": "solid"
+}

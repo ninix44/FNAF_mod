@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "fnaf_mod:block/booth_table"
+    },
+    "blockstate=1": {
+      "model": "fnaf_mod:block/booth_table_states_blockstate_0"
+    }
+  }
+}

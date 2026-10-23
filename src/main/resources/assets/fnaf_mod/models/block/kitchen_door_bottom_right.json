@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right",
+  "textures": {
+    "particle": "fnaf_mod:block/kitchendoorbottom",
+    "bottom": "fnaf_mod:block/kitchendoorbottom",
+    "top": "fnaf_mod:block/kitchendoortop"
+  },
+  "render_type": "translucent"
+}

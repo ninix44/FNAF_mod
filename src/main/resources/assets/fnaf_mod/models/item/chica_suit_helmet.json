@@ -1,0 +1,7 @@
+{
+  "parent": "fnaf_mod:custom/chicasuithead",
+  "textures": {
+    "1": "fnaf_mod:block/chicasuit",
+    "particle": "fnaf_mod:item/chicahelmet"
+  }
+}

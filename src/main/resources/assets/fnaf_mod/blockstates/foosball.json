@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/foosball"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/foosball",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/foosball",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/foosball",
+      "y": 270
+    }
+  }
+}

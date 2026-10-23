@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/door-boarder-left",
+  "textures": {
+    "all": "fnaf_mod:block/door-boarder-left",
+    "particle": "fnaf_mod:block/door-boarder",
+    "1": "fnaf_mod:block/door-boarder-left"
+  },
+  "render_type": "cutout_mipped"
+}

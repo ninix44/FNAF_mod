@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/counter_block",
+  "textures": {
+    "all": "fnaf_mod:block/r_counter",
+    "particle": "fnaf_mod:block/1_counter",
+    "1": "fnaf_mod:block/r_counter"
+  },
+  "render_type": "cutout"
+}

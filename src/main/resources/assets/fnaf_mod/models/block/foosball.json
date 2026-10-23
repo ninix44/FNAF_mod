@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/foosball_table",
+  "textures": {
+    "all": "fnaf_mod:block/fossball_table",
+    "particle": "fnaf_mod:block/fossball_table",
+    "0": "fnaf_mod:block/fossball_table"
+  },
+  "render_type": "cutout_mipped"
+}

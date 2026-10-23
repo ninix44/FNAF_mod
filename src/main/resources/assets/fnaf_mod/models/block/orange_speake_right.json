@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/stage_speakers_right",
+  "textures": {
+    "all": "fnaf_mod:block/loudspeakers",
+    "particle": "fnaf_mod:block/loudspeakers",
+    "2": "fnaf_mod:block/loudspeakers"
+  },
+  "render_type": "translucent"
+}

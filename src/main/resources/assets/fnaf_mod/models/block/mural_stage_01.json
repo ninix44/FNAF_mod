@@ -1,0 +1,10 @@
+{
+  "parent": "fnaf_mod:custom/wall_framed_mural",
+  "textures": {
+    "all": "fnaf_mod:block/mural_bw",
+    "particle": "fnaf_mod:block/mural_bw",
+    "2": "fnaf_mod:block/mural_bw",
+    "missing": "fnaf_mod:block/mural_bw"
+  },
+  "render_type": "cutout_mipped"
+}

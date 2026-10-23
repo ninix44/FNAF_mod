@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "fnaf_mod:block/cracked_purple_tiles",
+    "bottom": "fnaf_mod:block/cracked_purple_tiles",
+    "top": "fnaf_mod:block/cracked_purple_tiles",
+    "side": "fnaf_mod:block/cracked_purple_tiles"
+  },
+  "render_type": "solid"
+}

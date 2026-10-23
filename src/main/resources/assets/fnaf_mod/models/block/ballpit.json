@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "fnaf_mod:block/ballpitside",
+    "top": "fnaf_mod:block/bp10",
+    "side": "fnaf_mod:block/ballpitside",
+    "overlay": "fnaf_mod:block/ballpitside",
+    "particle": "fnaf_mod:block/ballpitside"
+  },
+  "render_type": "translucent"
+}

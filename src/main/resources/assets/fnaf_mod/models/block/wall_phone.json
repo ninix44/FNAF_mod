@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/wall_phone",
+  "textures": {
+    "all": "fnaf_mod:block/wall_phone",
+    "particle": "fnaf_mod:block/wall_phone",
+    "0": "fnaf_mod:block/wall_phone"
+  },
+  "render_type": "cutout"
+}

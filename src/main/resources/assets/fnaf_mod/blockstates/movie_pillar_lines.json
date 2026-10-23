@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "fnaf_mod:block/movie_pillar_lines"
+    },
+    "blockstate=1": {
+      "model": "fnaf_mod:block/movie_pillar_lines_blockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "fnaf_mod:block/movie_pillar_lines_blockstates_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "fnaf_mod:block/movie_pillar_lines_blockstates_blockstate_2"
+    }
+  }
+}

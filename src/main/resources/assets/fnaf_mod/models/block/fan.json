@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/desk_fan",
+  "textures": {
+    "all": "fnaf_mod:block/desk_fan",
+    "particle": "fnaf_mod:block/desk_fan",
+    "4": "fnaf_mod:block/desk_fan"
+  },
+  "render_type": "translucent"
+}

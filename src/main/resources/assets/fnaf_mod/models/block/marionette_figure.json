@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/figure_marionette",
+  "textures": {
+    "all": "fnaf_mod:block/figure_marionette",
+    "particle": "fnaf_mod:block/figure_marionette",
+    "0": "fnaf_mod:block/figure_marionette"
+  },
+  "render_type": "cutout"
+}

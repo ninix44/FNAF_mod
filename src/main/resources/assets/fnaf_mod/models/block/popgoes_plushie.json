@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/plushie_popgoes",
+  "textures": {
+    "all": "fnaf_mod:block/popgoes_plushie",
+    "particle": "fnaf_mod:block/popgoes_plushie",
+    "1": "fnaf_mod:block/popgoes_plushie"
+  },
+  "render_type": "cutout"
+}

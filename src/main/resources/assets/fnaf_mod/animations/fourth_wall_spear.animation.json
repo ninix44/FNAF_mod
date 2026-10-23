@@ -1,0 +1,19 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.fourth_wall_spear.idle": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 1,
+			"bones": {
+				"spear": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.52": [0, 32, 0],
+						"1.0": [0, 32, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

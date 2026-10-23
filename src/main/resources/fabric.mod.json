@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "fnaf_mod",
+  "version": "${version}",
+  "name": "The Five Nights at Freddy's Mod",
+  "description": "Five Nights at Freddy's in Minecraft",
+  "authors": [
+    "mephilis",
+    "Ported to 26.2 Fabric"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/the-five-nights-at-freddys-mod"
+  },
+  "license": "All Rights Reserved",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.fnafmod.FnafMod"
+    ],
+    "client": [
+      "net.mcreator.fnafmod.client.FnafModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

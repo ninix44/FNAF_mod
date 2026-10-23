@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/mural_freddys"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/mural_freddys",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/mural_freddys",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/mural_freddys",
+      "y": 270
+    }
+  }
+}

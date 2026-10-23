@@ -1,0 +1,6 @@
+{
+  "parent": "fnaf_mod:displaysettings/bigdoor",
+  "textures": {
+    "particle": "fnaf_mod:block/ncfast-closingmechanicaldoor"
+  }
+}

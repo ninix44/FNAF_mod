@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.7917,
+			"bones": {
+				"top": {
+					"position": {
+						"vector": [0, 31, 0],
+						"easing": "easeOutQuad"
+					}
+				},
+				"bottom": {
+					"position": {
+						"vector": [0, -31, 0],
+						"easing": "easeOutQuad"
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

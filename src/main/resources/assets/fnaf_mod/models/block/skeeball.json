@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/itp_skeeball",
+  "textures": {
+    "all": "fnaf_mod:block/skee_ball",
+    "particle": "fnaf_mod:block/skee_ball",
+    "1": "fnaf_mod:block/skee_ball"
+  },
+  "render_type": "cutout_mipped"
+}

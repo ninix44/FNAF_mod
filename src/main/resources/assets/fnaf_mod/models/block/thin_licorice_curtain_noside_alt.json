@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "particle": "fnaf_mod:block/curtainblack",
+    "pane": "fnaf_mod:block/curtainblack"
+  },
+  "render_type": "solid"
+}

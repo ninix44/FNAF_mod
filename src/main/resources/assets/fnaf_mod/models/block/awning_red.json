@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/awning",
+  "textures": {
+    "all": "fnaf_mod:block/awning_red",
+    "particle": "fnaf_mod:block/awning_red",
+    "0": "fnaf_mod:block/awning_red"
+  },
+  "render_type": "cutout"
+}

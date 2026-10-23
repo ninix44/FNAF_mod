@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/door_light",
+  "textures": {
+    "all": "fnaf_mod:block/door_light_on",
+    "particle": "fnaf_mod:block/door_light_off",
+    "0": "fnaf_mod:block/door_light_on"
+  },
+  "render_type": "cutout"
+}

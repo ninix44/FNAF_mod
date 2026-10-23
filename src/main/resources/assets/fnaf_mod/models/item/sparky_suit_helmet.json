@@ -1,0 +1,7 @@
+{
+  "parent": "fnaf_mod:custom/sparkysuithead",
+  "textures": {
+    "0": "fnaf_mod:block/sparkysuit",
+    "particle": "fnaf_mod:item/bonniehelmet"
+  }
+}

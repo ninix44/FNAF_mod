@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/figure_toy-chica",
+  "textures": {
+    "all": "fnaf_mod:block/figure_toy-chica",
+    "particle": "fnaf_mod:block/figure_toy-chica",
+    "0": "fnaf_mod:block/figure_toy-chica"
+  },
+  "render_type": "cutout"
+}

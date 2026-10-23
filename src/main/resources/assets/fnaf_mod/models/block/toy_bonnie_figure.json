@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/figure_toy-bonnie",
+  "textures": {
+    "all": "fnaf_mod:block/figure_toy-bonnie",
+    "particle": "fnaf_mod:block/figure_toy-bonnie",
+    "0": "fnaf_mod:block/figure_toy-bonnie"
+  },
+  "render_type": "cutout"
+}

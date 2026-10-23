@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/poster4",
+  "textures": {
+    "all": "fnaf_mod:block/bonniefreddy",
+    "particle": "fnaf_mod:block/bonniefreddy",
+    "0": "fnaf_mod:block/bonniefreddy"
+  },
+  "render_type": "solid"
+}

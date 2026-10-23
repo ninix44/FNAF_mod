@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/fnaf_mod_employee_board",
+  "textures": {
+    "all": "fnaf_mod:block/fnaf_mod_employee_board",
+    "particle": "fnaf_mod:block/fnaf_mod_employee_board",
+    "1": "fnaf_mod:block/fnaf_mod_employee_board"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,131 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.mechrab",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "mechrab",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "mechrab",
+					"pivot": [0, 3.75, 0],
+					"cubes": [
+						{"origin": [-5, 3.75, -5], "size": [10, 4, 10], "uv": [0, 14]}
+					]
+				},
+				{
+					"name": "left_eyeball",
+					"parent": "body",
+					"pivot": [2, 4.75, -5],
+					"cubes": [
+						{"origin": [2, 4, -9], "size": [0, 3, 5], "uv": [0, 1]},
+						{"origin": [0.5, 5.25, -9.5], "size": [3, 3, 3], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "l_eye",
+					"parent": "left_eyeball",
+					"pivot": [1.95, 6.75, -9.6],
+					"cubes": [
+						{"origin": [0.95, 5.75, -9.6], "size": [2, 2, 0], "uv": [0, 9]}
+					]
+				},
+				{
+					"name": "right_eyeball",
+					"parent": "body",
+					"pivot": [-2, 4.75, -5],
+					"cubes": [
+						{"origin": [-2, 4, -9.5], "size": [0, 3, 5], "uv": [0, 1]},
+						{"origin": [-3.5, 5.25, -9.5], "size": [3, 3, 3], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "r_eye",
+					"parent": "right_eyeball",
+					"pivot": [-2.05, 6.75, -9.6],
+					"cubes": [
+						{"origin": [-3.05, 5.75, -9.6], "size": [2, 2, 0], "uv": [0, 9]}
+					]
+				},
+				{
+					"name": "shell",
+					"parent": "body",
+					"pivot": [0, 5.75, 0],
+					"cubes": [
+						{"origin": [-6, 5.75, -6], "size": [12, 2, 12], "uv": [0, 0]},
+						{"origin": [-5, 7.75, -5], "size": [10, 2, 10], "uv": [0, 28]},
+						{"origin": [-4, 9.75, -4], "size": [8, 2, 8], "uv": [30, 14]}
+					]
+				},
+				{
+					"name": "antennae",
+					"parent": "shell",
+					"pivot": [0, 11.75, 0],
+					"cubes": [
+						{"origin": [0, 11.75, -0.5], "size": [0, 4, 1], "pivot": [0, 11.75, 0], "rotation": [0, 45, 0], "uv": [10, 5]},
+						{"origin": [-1, 15.75, -1], "size": [2, 2, 2], "uv": [0, 14]},
+						{"origin": [0, 11.75, -0.5], "size": [0, 4, 1], "pivot": [0, 11.75, 0], "rotation": [0, -45, 0], "uv": [10, 5]}
+					]
+				},
+				{
+					"name": "right_leg1",
+					"parent": "mechrab",
+					"pivot": [-3, 4, -4],
+					"cubes": [
+						{"origin": [-9, 0, -4], "size": [7, 5, 0], "uv": [30, 28]}
+					]
+				},
+				{
+					"name": "right_leg2",
+					"parent": "mechrab",
+					"pivot": [-3, 4, 0],
+					"cubes": [
+						{"origin": [-9, 0, 0], "size": [7, 5, 0], "uv": [30, 28]}
+					]
+				},
+				{
+					"name": "right_leg3",
+					"parent": "mechrab",
+					"pivot": [-3, 4, 4],
+					"cubes": [
+						{"origin": [-9, 0, 4], "size": [7, 5, 0], "uv": [30, 28]}
+					]
+				},
+				{
+					"name": "left_leg1",
+					"parent": "mechrab",
+					"pivot": [3, 4, -4],
+					"cubes": [
+						{"origin": [2, 0, -4], "size": [7, 5, 0], "uv": [30, 28], "mirror": true}
+					]
+				},
+				{
+					"name": "left_leg2",
+					"parent": "mechrab",
+					"pivot": [3, 4, 0],
+					"cubes": [
+						{"origin": [2, 0, 0], "size": [7, 5, 0], "uv": [30, 28], "mirror": true}
+					]
+				},
+				{
+					"name": "left_leg3",
+					"parent": "mechrab",
+					"pivot": [3, 4, 4],
+					"cubes": [
+						{"origin": [2, 0, 4], "size": [7, 5, 0], "uv": [30, 28], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}

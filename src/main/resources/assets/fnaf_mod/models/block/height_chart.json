@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/height_chart",
+  "textures": {
+    "all": "fnaf_mod:block/height_chart",
+    "particle": "fnaf_mod:block/height_chart",
+    "0": "fnaf_mod:block/height_chart"
+  },
+  "render_type": "solid"
+}

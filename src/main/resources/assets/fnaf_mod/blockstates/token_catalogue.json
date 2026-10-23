@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/token_catalogue"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/token_catalogue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/token_catalogue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/token_catalogue",
+      "y": 270
+    }
+  }
+}

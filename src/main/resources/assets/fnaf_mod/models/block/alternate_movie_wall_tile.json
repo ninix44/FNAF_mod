@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "fnaf_mod:block/movie_tile_bottom",
+    "top": "fnaf_mod:block/movie_tile_bottom",
+    "side": "fnaf_mod:block/movie_tile_bottom",
+    "overlay": "fnaf_mod:block/walltile_sbr_blackwhite",
+    "particle": "fnaf_mod:block/movie_tile_bottom"
+  },
+  "render_type": "cutout_mipped"
+}

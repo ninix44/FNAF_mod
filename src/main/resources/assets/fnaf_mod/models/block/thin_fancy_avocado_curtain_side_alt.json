@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "fnaf_mod:block/avocado_curtain_clean",
+    "edge": "fnaf_mod:block/avocado_curtain_clean",
+    "pane": "fnaf_mod:block/avocado_curtain_clean"
+  },
+  "render_type": "solid"
+}

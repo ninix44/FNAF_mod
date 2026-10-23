@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/drumset",
+  "textures": {
+    "all": "fnaf_mod:block/drumset",
+    "particle": "fnaf_mod:block/drumset",
+    "0": "fnaf_mod:block/drumset"
+  },
+  "render_type": "cutout"
+}

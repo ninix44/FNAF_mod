@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/figure_toy-funtime-foxy",
+  "textures": {
+    "all": "fnaf_mod:block/figure_toy-funtime-foxy",
+    "particle": "fnaf_mod:block/figure_toy-funtime-foxy",
+    "0": "fnaf_mod:block/figure_toy-funtime-foxy"
+  },
+  "render_type": "cutout"
+}

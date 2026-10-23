@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/lets_eat_sign",
+  "textures": {
+    "all": "fnaf_mod:block/lets_eat_sign",
+    "particle": "fnaf_mod:block/lets_eat_sign",
+    "0": "fnaf_mod:block/lets_eat_sign"
+  },
+  "render_type": "cutout_mipped"
+}

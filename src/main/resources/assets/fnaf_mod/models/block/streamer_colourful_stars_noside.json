@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "particle": "fnaf_mod:block/starstreamernature",
+    "pane": "fnaf_mod:block/starstreamernature"
+  },
+  "render_type": "cutout"
+}

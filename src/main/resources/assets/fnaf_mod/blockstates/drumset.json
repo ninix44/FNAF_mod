@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/drumset"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/drumset",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/drumset",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/drumset",
+      "y": 270
+    }
+  }
+}

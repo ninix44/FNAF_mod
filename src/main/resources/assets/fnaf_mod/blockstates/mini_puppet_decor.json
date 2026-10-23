@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/mini_puppet_decor"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/mini_puppet_decor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/mini_puppet_decor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/mini_puppet_decor",
+      "y": 270
+    }
+  }
+}

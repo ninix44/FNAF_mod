@@ -1,0 +1,177 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.torture-freddy",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "TortureMachine",
+					"pivot": [0, 0, 0],
+					"rotation": [0, 45, 0],
+					"cubes": [
+						{"origin": [-17, 0, -4], "size": [6, 2, 8], "uv": [32, 12]},
+						{"origin": [-11, 0, -5], "size": [19, 2, 10], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "Hand",
+					"parent": "TortureMachine",
+					"pivot": [-14.5, 2, 0],
+					"rotation": [0, 0, -12.5],
+					"cubes": [
+						{"origin": [-16, 2, -1], "size": [3, 25, 2], "uv": [32, 30]},
+						{"origin": [-23, 2, 0], "size": [7, 26, 0], "uv": [18, 12]}
+					]
+				},
+				{
+					"name": "Wires",
+					"parent": "Hand",
+					"pivot": [-13, 12.5, 0],
+					"cubes": [
+						{"origin": [-13, 10, 0], "size": [9, 23, 0], "uv": [0, 12]}
+					]
+				},
+				{
+					"name": "Hand2",
+					"parent": "Hand",
+					"pivot": [-15, 26, 0],
+					"rotation": [0, 0, 52.5],
+					"cubes": [
+						{"origin": [-16, 26, -0.5], "size": [2, 27, 1], "uv": [26, 38]},
+						{"origin": [-18, 26, 0], "size": [2, 12, 0], "uv": [32, 57]}
+					]
+				},
+				{
+					"name": "Extender",
+					"parent": "Hand2",
+					"pivot": [-14, 51, 0],
+					"rotation": [0, 0, 17.5],
+					"cubes": [
+						{"origin": [-15, 48, -1], "size": [2, 8, 2], "uv": [18, 48]}
+					]
+				},
+				{
+					"name": "Chains",
+					"parent": "Extender",
+					"pivot": [-13, 54, 0],
+					"rotation": [0, 0, 32.5],
+					"cubes": [
+						{"origin": [-13.5, 48, 0], "size": [8, 12, 0], "uv": [42, 35]}
+					]
+				},
+				{
+					"name": "TortureHead",
+					"parent": "Chains",
+					"pivot": [-5.5, 54, 1.5],
+					"rotation": [0, 0, -90],
+					"cubes": [
+						{"origin": [-9.5, 43.5, -0.5], "size": [8, 7, 0], "uv": [0, 48]},
+						{"origin": [-7, 43, 1.1], "size": [3, 3, 1], "pivot": [-5.5, 44, 1.5], "rotation": [75, 0, 0], "uv": [36, 58]},
+						{"origin": [-10.25, 47.25, -3], "size": [10, 3, 5], "uv": [32, 22]},
+						{"origin": [-8.75, 46.25, -5], "size": [7, 3, 2], "uv": [42, 53]},
+						{"origin": [-9.25, 49.25, -3], "size": [8, 5, 5], "uv": [0, 38]},
+						{"origin": [-8.25, 51.75, -3.1], "size": [2, 1, 0], "uv": [36, 57]},
+						{"origin": [-4.25, 51.75, -3.1], "size": [2, 1, 0], "uv": [60, 53]}
+					]
+				},
+				{
+					"name": "BladeTop",
+					"parent": "TortureHead",
+					"pivot": [-5.5, 51.5, 1.5],
+					"cubes": [
+						{"origin": [-7, 50, 1], "size": [3, 3, 1], "uv": [18, 58]}
+					]
+				},
+				{
+					"name": "BladeMiddle",
+					"parent": "TortureHead",
+					"pivot": [-5.5, 48.5, 0.5],
+					"cubes": [
+						{"origin": [-6.5, 47.5, 0], "size": [2, 2, 1], "uv": [10, 35]}
+					]
+				},
+				{
+					"name": "BladeLeft",
+					"parent": "TortureHead",
+					"pivot": [-3, 47, 1],
+					"cubes": [
+						{"origin": [-4.5, 45.5, 1], "size": [3, 3, 1], "uv": [18, 58]}
+					]
+				},
+				{
+					"name": "BladeRight",
+					"parent": "TortureHead",
+					"pivot": [-8, 47, 1],
+					"cubes": [
+						{"origin": [-9.5, 45.5, 1], "size": [3, 3, 1], "uv": [18, 58]}
+					]
+				},
+				{
+					"name": "LeftEar",
+					"parent": "TortureHead",
+					"pivot": [-0.75, 52.55, 0.5],
+					"rotation": [0, 0, 90],
+					"cubes": [
+						{"origin": [-2.25, 52.75, 0], "size": [3, 3, 1], "uv": [58, 35]},
+						{"origin": [-1.75, 51.75, 0.5], "size": [2, 4, 0], "uv": [12, 60]},
+						{"origin": [-1.75, 49.75, -0.5], "size": [2, 2, 1], "uv": [0, 60]}
+					]
+				},
+				{
+					"name": "endo_head",
+					"parent": "TortureHead",
+					"pivot": [-18.4881, 46.34524, 0.91429],
+					"cubes": [
+						{"origin": [-8.25, 46.05, -0.5], "size": [1, 2, 1], "uv": [60, 16]},
+						{"origin": [-3.25, 46.05, -0.5], "size": [1, 2, 1], "uv": [60, 19]},
+						{"origin": [-7.25, 46.05, 0.5], "size": [4, 4, 0], "uv": [58, 39]},
+						{"origin": [-6.75, 46.05, -2.5], "size": [3, 1, 2], "uv": [0, 35]},
+						{"origin": [-8.25, 49.05, -1.8], "size": [2, 2, 2], "uv": [58, 43]},
+						{"origin": [-4.75, 48.55, -2.3], "size": [3, 3, 3], "uv": [58, 0]},
+						{"origin": [-8.75, 48.55, -2.3], "size": [3, 3, 3], "uv": [58, 6]},
+						{"origin": [-4.25, 49.05, -1.8], "size": [2, 2, 2], "uv": [44, 58]}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "endo_head",
+					"pivot": [-19.25, 26.75, 10.2]
+				},
+				{
+					"name": "Jaw",
+					"parent": "TortureHead",
+					"pivot": [-5.25, 45.79319, 2],
+					"rotation": [12.5, 0, 0],
+					"cubes": [
+						{"origin": [-9.75, 43.64319, -1.16522], "size": [9, 2, 3], "uv": [42, 30]},
+						{"origin": [-8.75, 43.64319, -5.16522], "size": [7, 2, 4], "uv": [42, 47]},
+						{"origin": [-8.25, 44.54319, -4.66522], "size": [6, 2, 3], "uv": [0, 55]}
+					]
+				},
+				{
+					"name": "RightEar",
+					"parent": "TortureHead",
+					"pivot": [-9.75, 52.55, 0.5],
+					"rotation": [0, 0, -90],
+					"cubes": [
+						{"origin": [-11.25, 52.75, 0], "size": [3, 3, 1], "uv": [52, 58]},
+						{"origin": [-10.75, 51.75, 0.5], "size": [2, 4, 0], "uv": [60, 12]},
+						{"origin": [-10.75, 49.75, -0.5], "size": [2, 2, 1], "uv": [6, 60]}
+					]
+				},
+				{
+					"name": "RightTop",
+					"parent": "RightEar",
+					"pivot": [-9.75, 55.55, 0.5]
+				}
+			]
+		}
+	]
+}

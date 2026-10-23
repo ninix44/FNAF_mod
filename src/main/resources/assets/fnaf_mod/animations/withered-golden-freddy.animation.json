@@ -1,0 +1,118 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.freddy.sit": {
+			"loop": true,
+			"bones": {
+				"Body": {
+					"rotation": {
+						"vector": [12.45392, -1.08089, 4.88206]
+					},
+					"position": {
+						"vector": [0, -18, 0]
+					}
+				},
+				"LeftArm": {
+					"rotation": {
+						"vector": [171.38271, -77.27384, -94.34379]
+					}
+				},
+				"LeftForearm": {
+					"rotation": {
+						"vector": [-23.98105, -5.25223, 68.11022]
+					}
+				},
+				"LeftHand": {
+					"rotation": {
+						"vector": [0, -20, 15]
+					}
+				},
+				"RightArm": {
+					"rotation": {
+						"vector": [178.2472, 65.07342, 105.28877]
+					}
+				},
+				"RightForearm": {
+					"rotation": {
+						"vector": [-0.98537, 7.00889, -55.30565]
+					}
+				},
+				"RightHand": {
+					"rotation": {
+						"vector": [-4.6653, 16.88547, -15.69284]
+					}
+				},
+				"Pelvis": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, -18, 0]
+					}
+				},
+				"LeftLeg": {
+					"rotation": {
+						"vector": [-125.35829, -13.28616, -1.02371]
+					},
+					"position": {
+						"vector": [0, -0.64932, -2.92889]
+					}
+				},
+				"LeftKnee": {
+					"rotation": {
+						"vector": [95.98676, -4.95481, -5.58783]
+					}
+				},
+				"LeftFoot": {
+					"rotation": {
+						"vector": [41.52207, 4.60576, -5.56972]
+					}
+				},
+				"RightLeg": {
+					"rotation": {
+						"vector": [-128.14562, 9.79205, -1.81833]
+					},
+					"position": {
+						"vector": [0, -0.86576, -3.90518]
+					}
+				},
+				"RightKnee": {
+					"rotation": {
+						"vector": [100.03742, -4.92385, -0.87038]
+					}
+				},
+				"RightFoot": {
+					"rotation": {
+						"vector": [40, 0, 0]
+					}
+				},
+				"LeftLeg2": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				},
+				"Head": {
+					"rotation": {
+						"vector": [0, 0, 10]
+					}
+				},
+				"LeftPupil": {
+					"scale": {
+						"vector": [0.5, 0.5, 0.5]
+					}
+				},
+				"RightPupil": {
+					"scale": {
+						"vector": [0.5, 0.5, 0.5]
+					}
+				},
+				"Jaw": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

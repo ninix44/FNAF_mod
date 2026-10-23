@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "fnaf_mod:block/stage_bricks",
+    "top": "fnaf_mod:block/stage_bricks",
+    "side": "fnaf_mod:block/stage_bricks",
+    "overlay": "fnaf_mod:block/walltile_smb_blackwhite",
+    "particle": "fnaf_mod:block/stage_bricks"
+  },
+  "render_type": "cutout_mipped"
+}

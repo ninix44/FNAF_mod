@@ -1,0 +1,36 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.fourthwall.idle": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.84,
+			"bones": {
+				"Wall1": {
+					"position": {
+						"0.0": {
+							"vector": [36, 0, 0],
+							"easing": "linear"
+						},
+						"0.84": {
+							"vector": [-8, 0, 0],
+							"easing": "easeInExpo"
+						}
+					}
+				},
+				"Wall2": {
+					"position": {
+						"0.0": {
+							"vector": [-36, 0, 0],
+							"easing": "linear"
+						},
+						"0.84": {
+							"vector": [8, 0, 0],
+							"easing": "easeInExpo"
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

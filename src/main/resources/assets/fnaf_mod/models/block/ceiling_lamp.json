@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/lamp",
+  "textures": {
+    "all": "fnaf_mod:block/lamp_texture",
+    "particle": "fnaf_mod:block/lamp_texture",
+    "1": "fnaf_mod:block/lamp_texture"
+  },
+  "render_type": "cutout"
+}

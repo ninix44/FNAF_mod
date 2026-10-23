@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/polarbar",
+  "textures": {
+    "all": "fnaf_mod:block/polarbar",
+    "particle": "fnaf_mod:block/polarbar",
+    "0": "fnaf_mod:block/polarbar"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "fnaf_mod:block/darkaquatiles",
+    "bottom": "fnaf_mod:block/darkaquatiles",
+    "top": "fnaf_mod:block/darkaquatiles",
+    "side": "fnaf_mod:block/darkaquatiles"
+  },
+  "render_type": "solid"
+}

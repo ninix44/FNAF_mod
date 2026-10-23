@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/freddy_pizza_arcade",
+  "textures": {
+    "all": "fnaf_mod:block/freddy_pizza_arcade",
+    "particle": "fnaf_mod:block/freddy_pizza_arcade",
+    "1": "fnaf_mod:block/freddy_pizza_arcade"
+  },
+  "render_type": "cutout"
+}

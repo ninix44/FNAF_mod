@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/trashcanmovie",
+  "textures": {
+    "all": "fnaf_mod:block/fm_movietrashcan",
+    "particle": "fnaf_mod:block/fm_movietrashcan",
+    "0": "fnaf_mod:block/fm_movietrashcan"
+  },
+  "render_type": "solid"
+}

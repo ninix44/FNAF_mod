@@ -1,0 +1,9 @@
+{
+  "parent": "fnaf_mod:custom/posterf1",
+  "textures": {
+    "all": "fnaf_mod:block/dark",
+    "particle": "fnaf_mod:block/dark",
+    "0": "fnaf_mod:block/dark"
+  },
+  "render_type": "solid"
+}

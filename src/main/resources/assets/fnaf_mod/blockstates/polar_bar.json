@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fnaf_mod:block/polar_bar"
+    },
+    "facing=east": {
+      "model": "fnaf_mod:block/polar_bar",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fnaf_mod:block/polar_bar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fnaf_mod:block/polar_bar",
+      "y": 270
+    }
+  }
+}
